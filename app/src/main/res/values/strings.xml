@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Calculator Apps</string>
+    <string name="tvDisplay">0</string>
+    <string name="btnAddition">+</string>
+    <string name="btnSubtraction">-</string>
+    <string name="btnMultiplication">x</string>
+    <string name="btnEquals">=</string>
+    <string name="btnDivision">÷</string>
+    <string name="btnReset">C</string>
 </resources>
